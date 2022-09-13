@@ -39,11 +39,9 @@ input[type=text]:focus {
 }
 
 #myTable tr.header, #myTable tr:hover {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
-body{
-  background-color: aquamarine;
-}
+
 a{
   color: black;
   text-decoration: none;
